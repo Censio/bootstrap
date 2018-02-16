@@ -1,0 +1,59 @@
+//
+/// Primary font type / Headings, Titles, button title, form title
+//
+@font-face {
+    font-family: TMo Primary;
+    src: url(./assets/fonts/Metropolis/metropolis-semibold-webfont.ttf);
+    src: url(./assets/fonts/Metropolis/metropolis-semibold-webfont.svg);
+    src: url(./assets/fonts/Metropolis/metropolis-semibold-webfont.eot);
+    src: url(./assets/fonts/Metropolis/metropolis-semibold-webfont.woff);
+    src: url(./assets/fonts/Metropolis/metropolis-semibold-webfont.woff2);
+}
+
+@font-face {
+    font-family: TMo Primary Light;
+    src: url(./assets/fonts/Metropolis/metropolis-medium-webfont.ttf);
+    src: url(./assets/fonts/Metropolis/metropolis-medium-webfont.svg);
+    src: url(./assets/fonts/Metropolis/metropolis-medium-webfont.eot);
+    src: url(./assets/fonts/Metropolis/metropolis-medium-webfont.woff);
+    src: url(./assets/fonts/Metropolis/metropolis-medium-webfont.woff2);
+}
+
+@font-face {
+    font-family: TMo Primary Heavy;
+    src: url(./assets/fonts/Metropolis/metropolis-extrabold-webfont.ttf);
+    src: url(./assets/fonts/Metropolis/metropolis-extrabold-webfont.svg);
+    src: url(./assets/fonts/Metropolis/metropolis-extrabold-webfont.eot);
+    src: url(./assets/fonts/Metropolis/metropolis-extrabold-webfont.woff);
+    src: url(./assets/fonts/Metropolis/metropolis-extrabold-webfont.woff2);
+}
+
+//
+/// Secondary font type / Datas, Forms, Attributes, Descriptions
+//
+@font-face {
+    font-family: TMo Secondary;
+    src: url(./assets/fonts/FiraSans/firasans-medium-webfont.ttf);
+    src: url(./assets/fonts/FiraSans/firasans-medium-webfont.svg);
+    src: url(./assets/fonts/FiraSans/firasans-medium-webfont.eot);
+    src: url(./assets/fonts/FiraSans/firasans-medium-webfont.woff);
+    src: url(./assets/fonts/FiraSans/firasans-medium-webfont.woff2);
+}
+
+@font-face {
+    font-family: TMo Secondary Light;
+    src: url(./assets/fonts/FiraSans/firasans-regular-webfont.ttf);
+    src: url(./assets/fonts/FiraSans/firasans-regular-webfont.svg);
+    src: url(./assets/fonts/FiraSans/firasans-regular-webfont.eot);
+    src: url(./assets/fonts/FiraSans/firasans-regular-webfont.woff);
+    src: url(./assets/fonts/FiraSans/firasans-regular-webfont.woff2);
+}
+
+@font-face {
+    font-family: TMo Secondary Heavy;
+    src: url(./assets/fonts/FiraSans/firasans-semibold-webfont.ttf);
+    src: url(./assets/fonts/FiraSans/firasans-semibold-webfont.svg);
+    src: url(./assets/fonts/FiraSans/firasans-semibold-webfont.eot);
+    src: url(./assets/fonts/FiraSans/firasans-semibold-webfont.woff);
+    src: url(./assets/fonts/FiraSans/firasans-semibold-webfont.woff2);
+}
