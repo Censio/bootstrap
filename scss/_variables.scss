@@ -40,8 +40,6 @@ $red:      #FF0101 !default;
 $yellow:   #FFC201 !default;
 $green:    #3ECCCE !default;
 
-
-
 $tmo-colors: () !default;
 $tmo-colors: map-merge((
   "tmogray":    $tmogray,
@@ -54,6 +52,24 @@ $tmo-colors: map-merge((
   "gray":       $gray-600,
   "gray-dark":  $gray-700
 ), $tmo-colors);
+
+$l-tmorange: #FEEBDC !default;
+$l-purple: #EEEDFD !default;
+$l-red: #FEDCDC !default;
+$l-yellow: #FEF4DC !default;
+$l-green: #D5F3F3 !default;
+$l-blue: #F1F4FF !default;
+
+$tmo-light-colors: () !default;
+$tmo-light-colors: map-merge((
+  "l-tmorange":   $l-tmorange,
+  "l-purple":     $l-purple,
+  "l-red":        $l-red,
+  "l-yellow":     $l-yellow,
+  "l-green":      $l-green,
+  "l-blue":       $l-blue
+), $tmo-colors);
+
 
 $primary:       $tmogray !default;
 $secondary:     $tmorange !default;
